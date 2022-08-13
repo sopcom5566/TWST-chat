@@ -1,0 +1,6 @@
+name: Twst-chat
+version: '${project.version}'
+main: me.twst.Twstchat
+api-version: 1.18
+authors: [ twst ]
+description: chat plugin from twst
