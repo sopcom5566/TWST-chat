@@ -1,0 +1,6 @@
+name: TWSTchat
+version: '1.0-SNAPSHOT'
+main: twstchat.twstchat.TWSTchat
+api-version: 1.18
+prefix: TCHAT
+authors: [ TWST ]

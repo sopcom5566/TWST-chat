@@ -1,0 +1,6 @@
+name: TWSTchat
+version: '${project.version}'
+main: twstchat.twstchat.TWSTchat
+api-version: 1.18
+prefix: TCHAT
+authors: [ TWST ]
